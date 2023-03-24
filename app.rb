@@ -14,4 +14,3 @@ end
 if __FILE__ == $0
     MyApp.run!
   end
-  
