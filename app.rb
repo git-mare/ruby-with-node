@@ -13,4 +13,4 @@ end
 # If the Ruby file is executed it directly starts the Sinatra server on the previously defined port
 if __FILE__ == $0
     MyApp.run!
-  end
+end
